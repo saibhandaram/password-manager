@@ -6,3 +6,7 @@ input and delete methonds on textbox ( Entry )
 .join to combine strings/chars
 range(n) will go from 0 to n
 pyperclip package to copy the information to Clipboard.
+
+Updated Version comments:
+Used Json - load and dump methods
+Saved data in Json format instead of text format
